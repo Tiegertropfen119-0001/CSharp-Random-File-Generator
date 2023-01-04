@@ -1,0 +1,13 @@
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.exe
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.deps.json
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.json
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.runtimeconfig.dev.json
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\bin\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfoInputs.cache
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.AssemblyInfo.cs
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.dll
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.pdb
+C:\Users\ianka\source\repos\FileGenerator\FileGenerator\obj\Debug\netcoreapp3.1\FileGenerator.genruntimeconfig.cache
